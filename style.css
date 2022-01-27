@@ -1,0 +1,72 @@
+body {
+    background-image: url('https://wallpaperaccess.com/full/2939778.jpg');
+    position:flex;
+    text-align:center;
+    font-family:monospace;
+    font-size:16px;
+    color:white;
+    
+
+}
+
+.container {
+    background: linear-gradient(230.65deg, #2E86AB 27.49%, #6E2594 83.19%);
+    color: white;
+    margin: auto;
+    border-radius: 20px;
+    filter: drop-shadow(6px 6px 6px rgba(102, 102, 102, 0.75));
+    padding: 32px;
+    max-width: 800px; 
+  }
+
+h1 {
+    margin-left:-30px;
+    
+}
+
+#fotoperfil {
+    
+    text-align:left;
+    border-radius: 5px;
+    filter: drop-shadow(3px 3px 3px rgba(0, 0, 0, 0.75));
+    padding-bottom:75px;
+   
+    
+}
+
+.personalinfo
+{
+    text-align:justify;
+    display:inline-block;
+    margin-left:0px;
+  
+}
+#github {
+    display:table;
+    padding-left:230px;
+    margin-top:-95px;
+    
+
+}
+
+#linkedin{
+    display:table;
+    padding-left:140px;
+    margin-top:-48px;
+
+  
+  
+}
+    
+}
+
+hr {
+    display:flex;
+
+
+}
+
+a {
+    color: cyan;
+
+}
