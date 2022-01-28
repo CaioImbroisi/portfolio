@@ -17,13 +17,12 @@ body {
 
 .container {
     background: linear-gradient(230.65deg, #364156 27.49%,#8693ab 80.00%);
-    opacity:0.5
-    color: white;
+    opacity:0.5 color: white;
     margin: auto;
     border-radius: 20px;
     filter: drop-shadow(6px 6px 6px rgba(102, 102, 102, 0.75));
     padding: 32px;
-    max-width: 720px; 
+    max-width: 720px;
    
   }
 
@@ -60,17 +59,13 @@ ul li {
 
 .personalinfo
 {
+    
     text-align:left;
     margin-left:200px;
-    margin-top:-410px ;
+    margin-top:-410px;
+    
 }
 
-
-hr {
-    display:flex;
-
-
-}
 
 a {
     color: cyan;
